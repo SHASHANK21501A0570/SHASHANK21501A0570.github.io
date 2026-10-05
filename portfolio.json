@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "siteTitle": "Shashank Kadiyala - AI Engineer & Full-Stack Developer",
+    "shortName": "Shashank K",
+    "copyright": "© 2025 Shashank Kadiyala. Building intelligent systems with Python, LLMs, and full-stack engineering."
+  },
+  "hero": {
+    "name": "Shashank Kadiyala",
+    "tagline": "AI Engineer & Full-Stack Developer | LLMs, Agentic AI, and Scalable Systems",
+    "cta": {
+      "label": "Explore My Work",
+      "href": "#projects"
+    },
+    "roles": [
+      "AI Engineer",
+      "ML Researcher",
+      "Full-Stack Developer"
+    ],
+    "focus": "LLMs, Agentic AI, and Scalable Systems",
+    "portrait": "/portrait.webp"
+  },
+  "about": {
+    "subtitle": "Building intelligent systems at the intersection of AI and software engineering",
+    "heading": "AI Research Meets Real-World Engineering",
+    "paragraphs": [
+      "I'm a graduate Computer Science student at Northeastern University focused on building intelligent systems that combine AI research with real-world software engineering. My work sits at the intersection of Machine Learning, Deep Learning, Large Language Models, and scalable full-stack development, with a strong interest in creating practical AI products that solve meaningful problems.",
+      "I've worked on projects involving anomaly detection, autonomous vehicle systems, multi-agent AI workflows, RAG pipelines, and AI-powered platforms using modern LLM ecosystems. One of my major research-focused projects explores secure Vehicle-to-Vehicle (V2V) communication for autonomous vehicles using blockchain, AI-driven anomaly detection, and simulation environments like SUMO. I've also built AI applications leveraging IBM Granite models, retrieval systems, and agentic workflows to improve decision-making and automation.",
+      "On the software engineering side, I enjoy building end-to-end applications across the MERN stack and modern cloud-native tooling. My experience includes backend architecture, API development, authentication systems, databases, and deploying scalable applications with clean, maintainable code. I'm particularly interested in combining strong engineering principles with AI systems to build products that are both technically robust and impactful.",
+      "I enjoy experimenting with emerging AI technologies, exploring how LLMs can enhance developer productivity and user experiences, and continuously learning through research, hackathons, and hands-on projects. My goal is to contribute to the next generation of intelligent software systems that bridge research and production-ready engineering."
+    ],
+    "stats": [
+      {
+        "value": "2+",
+        "label": "Years Professional Experience"
+      },
+      {
+        "value": "10+",
+        "label": "Production Projects"
+      },
+      {
+        "value": "4.0",
+        "label": "Graduate GPA"
+      },
+      {
+        "value": "2",
+        "label": "Published Papers"
+      }
+    ]
+  },
+  "education": {
+    "school": "Northeastern University",
+    "location": "Boston, MA",
+    "degree": "Master of Science in Computer Science",
+    "start": "Sept 2025",
+    "end": "Dec 2027 (Expected)",
+    "gpa": "4.0/4.0",
+    "coursework": [
+      "Natural Language Processing",
+      "Algorithms",
+      "Databases",
+      "Programming Design Paradigms",
+      "Foundations of GenAI"
+    ]
+  },
+  "experience": [
+    {
+      "role": "CyberSecurity AI Intern",
+      "company": "Abbott Cancer Diagnostics",
+      "start": "Jun 2025",
+      "end": "Present",
+      "location": "Madison, WI",
+      "summary": "Building AI pipelines for security and knowledge operations: correlating issues across meeting transcripts, making internal documentation semantically searchable, and automating certificate-ownership reconciliation."
+    },
+    {
+      "role": "Research Assistant – AI/ML Research",
+      "company": "AIMES Lab, Northeastern University",
+      "start": "May 2025",
+      "end": "Present",
+      "location": "Boston, MA",
+      "summary": "Research under Prof. John Wihbey on measuring AI literacy and evaluating prompting skill for the HuskyAI coaching platform, plus AI pipelines that turn civic data into local news."
+    },
+    {
+      "role": "Software Engineering Intern – Packaged App Development",
+      "company": "Accenture",
+      "start": "Jan 2025",
+      "end": "Apr 2025",
+      "location": "Hyderabad, India (Hybrid)",
+      "summary": "Supported data preprocessing and backend infrastructure development for enterprise-scale microservices, handling 10K+ daily requests with significant performance and DevOps improvements."
+    },
+    {
+      "role": "AI Intern – NLP & LLM Engineering",
+      "company": "Aashaya Design Solutions",
+      "start": "Jun 2024",
+      "end": "Aug 2024",
+      "location": "Remote",
+      "summary": "Automated ICD-10 code assignment from unstructured discharge summaries with transformer-based models, then made it fast and reliable enough for real-time research coding."
+    }
+  ],
+  "publications": [
+    {
+      "venue": "SSRN Preprint",
+      "year": "2026",
+      "status": "Preprint",
+      "title": "Measuring Agency-Amplifying AI Literacy: The HuskyAI Coaching Platform for Workforce Readiness"
+    },
+    {
+      "venue": "IEEE ICCSAI",
+      "year": "2025",
+      "status": "Accepted",
+      "title": "ID-PUIC: Proxy-Oriented Remote Data Integration in Public Clouds"
+    },
+    {
+      "venue": "Springer Book Chapter",
+      "year": "2025",
+      "status": "Under Review",
+      "title": "Blockchain and AI-Driven Security for Autonomous Vehicles"
+    }
+  ],
+  "achievements": [
+    "Google Developer Student Club (GDSC) – ML Team Member; mentored 300+ students on Google Cloud technologies",
+    "IT Department Hackathon Winner – AI-powered leaf disease diagnosis system",
+    "Certifications: Google Cloud Generative AI & Cloud Foundations · NPTEL C & Java · Infosys Springboard AI & Python"
+  ],
+  "projects": {
+    "subtitle": "LLMs, Agentic AI, Machine Learning, and Full-Stack Engineering",
+    "items": [
+      {
+        "icon": "🤖",
+        "title": "Granite Harvest (IBM TechXchange)",
+        "description": "Multi-agent agentic workflow for food redistribution. Designed classification, constraint validation, and intelligent matching across 30+ scenarios in 48hrs. Achieved 85%+ match relevance, 22% accuracy improvement, 94%+ constraint satisfaction.",
+        "tags": [
+          "LangChain",
+          "Granite LLM",
+          "RAG",
+          "Python"
+        ],
+        "github": "https://github.com/SHASHANK21501A0570/Food-Donation-GRANITE-"
+      },
+      {
+        "icon": "📚",
+        "title": "AI Study Helper (RAG Pipeline)",
+        "description": "LLM-powered document retrieval for conversational Q&A over 200+ PDFs. Built semantic indexing with pgvector achieving 88%+ retrieval precision. 30% hallucination reduction vs baseline. Engineered agentic loops with 6+ query rewriting strategies.",
+        "tags": [
+          "LangChain",
+          "pgvector",
+          "Flask",
+          "HuggingFace"
+        ],
+        "github": "https://github.com/SHASHANK21501A0570/student-exam-helper"
+      },
+      {
+        "icon": "📄",
+        "title": "Doctor-to-Human Translator",
+        "description": "Fine-tuned Llama 3.1 8B with QLoRA on clinical text simplification. Reduced medical jargon by 35% while maintaining 92%+ accuracy via multi-dataset training (15K+ samples). 0.87 Fleiss' Kappa inter-rater agreement across 12 medical specialties.",
+        "tags": [
+          "Llama 3.1 8B",
+          "QLoRA",
+          "PyTorch",
+          "MIMIC-IV"
+        ],
+        "github": "https://github.com/SHASHANK21501A0570/doctor-to-human-translator"
+      },
+      {
+        "icon": "🚗",
+        "title": "Blockchain & AI Autonomous Vehicles",
+        "description": "Integrated SUMO traffic simulation with blockchain smart contracts for secure V2V communication across 100+ vehicles. Multi-model anomaly detection (TVAE-GMM, CNN, LSTM) achieving 95% accuracy, 0.91 F1-score, 15% false positive reduction.",
+        "tags": [
+          "PyTorch",
+          "SUMO",
+          "Truffle",
+          "Ganache"
+        ],
+        "github": "https://github.com/SHASHANK21501A0570/Anomaly_Detection-V2V"
+      },
+      {
+        "icon": "📈",
+        "title": "Stock Price Prediction (LSTM)",
+        "description": "Multi-layer LSTM time-series forecasting on 10+ years of market data. Engineered 15+ temporal features (moving averages, volatility indicators, lag signals). Achieved 91% directional accuracy, 18% RMSE improvement vs baseline regression.",
+        "tags": [
+          "TensorFlow",
+          "LSTM",
+          "Pandas",
+          "NumPy"
+        ],
+        "github": null
+      },
+      {
+        "icon": "📝",
+        "title": "MERN Blogging Platform",
+        "description": "Full-stack blogging platform with authentication, CRUD operations, comments, and role-based access. Supported 200+ users with responsive UI. Optimized MongoDB schema design achieving 35% query efficiency improvement with strategic indexing.",
+        "tags": [
+          "React",
+          "Node.js",
+          "Express",
+          "MongoDB"
+        ],
+        "github": "https://github.com/SHASHANK21501A0570/BLOG"
+      },
+      {
+        "icon": "🌾",
+        "title": "AI Leaf Disease Diagnosis Rover",
+        "description": "IT Department Hackathon Winner. AI-powered leaf disease detection for agricultural automation. Integrated computer vision and machine learning for real-time disease classification and severity assessment.",
+        "tags": [
+          "OpenCV",
+          "PyTorch",
+          "Python",
+          "Deep Learning"
+        ],
+        "github": null
+      },
+      {
+        "icon": "🎯",
+        "title": "Facial Recognition System (OpenCV)",
+        "description": "Real-time facial recognition using Haar Cascades across 500+ frames and 20+ users. Achieved 93% detection accuracy, 30% frame processing speedup, 16% false positive reduction through ROI tuning and parameter optimization.",
+        "tags": [
+          "OpenCV",
+          "Python",
+          "Computer Vision"
+        ],
+        "github": "https://github.com/SHASHANK21501A0570/Facial_Recognition"
+      },
+      {
+        "icon": "⚙️",
+        "title": "Microservices Architecture (Accenture)",
+        "description": "Architected and deployed 5+ backend microservices using NestJS, Node.js, SQL, and Spring Boot. Handled 10K+ daily API requests across 15+ endpoints. Reduced response latency by 20% through optimized schema design and strategic indexing.",
+        "tags": [
+          "NestJS",
+          "Node.js",
+          "Spring Boot",
+          "PostgreSQL"
+        ],
+        "github": "https://github.com/SHASHANK21501A0570/ACCENTURE"
+      }
+    ]
+  },
+  "skills": {
+    "subtitle": "LLMs, Agentic AI, Machine Learning, and Full-Stack Development",
+    "categories": [
+      {
+        "icon": "🤖",
+        "name": "GenAI & LLMs",
+        "items": [
+          "LangChain & LangGraph",
+          "LlamaIndex & AI Agents",
+          "Agentic AI & Orchestration",
+          "RAG Pipelines & Vector DBs",
+          "Prompt Engineering",
+          "Embeddings & Semantic Search",
+          "Fine-Tuning (QLoRA, LoRA)",
+          "LLM Evaluation & Metrics"
+        ]
+      },
+      {
+        "icon": "🧠",
+        "name": "Machine Learning",
+        "items": [
+          "PyTorch & TensorFlow",
+          "Transformers (HuggingFace)",
+          "scikit-learn, XGBoost & LightGBM",
+          "NLP & Sequence Models",
+          "Anomaly Detection",
+          "Time-Series Forecasting",
+          "MLOps & Model Deployment"
+        ]
+      },
+      {
+        "icon": "💻",
+        "name": "Backend Engineering",
+        "items": [
+          "Node.js & Express",
+          "NestJS & Spring Boot",
+          "REST APIs & Microservices",
+          "PostgreSQL & SQL Optimization",
+          "Database Indexing & Design",
+          "CI/CD & GitHub Actions",
+          "Docker & Deployment"
+        ]
+      },
+      {
+        "icon": "🛠️",
+        "name": "Languages & Tools",
+        "items": [
+          "Python, JavaScript/TypeScript",
+          "SQL, Java, C++, R",
+          "Git & version control",
+          "AWS & Google Cloud",
+          "Jupyter & Weights & Biases",
+          "React, Flask, FastAPI",
+          "OpenCV & Computer Vision",
+          "Tableau & Power BI"
+        ]
+      },
+      {
+        "icon": "📊",
+        "name": "Data & ML Infrastructure",
+        "items": [
+          "Pandas & NumPy",
+          "ETL Pipelines",
+          "pgvector, FAISS & Pinecone",
+          "Feature Engineering",
+          "Statistical Analysis",
+          "Reproducible Research",
+          "Model Evaluation & Benchmarking",
+          "PostgreSQL, MySQL & MongoDB"
+        ]
+      },
+      {
+        "icon": "🏗️",
+        "name": "Systems & Architecture",
+        "items": [
+          "System Design Fundamentals",
+          "Distributed Systems",
+          "Database Architecture",
+          "Performance Optimization",
+          "Scalability Patterns",
+          "Testing & Quality Assurance"
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "heading": "Get In Touch",
+    "subtitle": "Always interested in AI, agentic systems, and building at scale",
+    "email": "kadiyalashashank@gmail.com",
+    "links": [
+      {
+        "label": "Email",
+        "icon": "📧",
+        "url": "mailto:kadiyalashashank@gmail.com"
+      },
+      {
+        "label": "LinkedIn",
+        "icon": "💼",
+        "url": "https://www.linkedin.com/in/shashank-kadiyala-850915247/"
+      },
+      {
+        "label": "GitHub",
+        "icon": "🐙",
+        "url": "https://github.com/SHASHANK21501A0570"
+      },
+      {
+        "label": "Resume",
+        "icon": "📄",
+        "url": "https://drive.google.com/file/d/1VMv5hywmoW77ebEso3NNhAjNq1FlU3DP/view?usp=sharing"
+      }
+    ],
+    "location": "Boston, Massachusetts",
+    "availability": "Open to full-time & internship roles",
+    "resume": "https://drive.google.com/file/d/1VMv5hywmoW77ebEso3NNhAjNq1FlU3DP/view?usp=sharing"
+  },
+  "nav": [
+    "About",
+    "Experience",
+    "Projects",
+    "Skills",
+    "Research",
+    "Contact"
+  ]
+}
